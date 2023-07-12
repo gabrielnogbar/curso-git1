@@ -1,3 +1,4 @@
 aaaa
 bbbbb
-nova funcionalidade sera...\curso_git1
+nova funcionalidade é essa aqui...*
+funcão2
